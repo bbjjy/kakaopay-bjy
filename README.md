@@ -13,3 +13,11 @@
 - lombok
 - SpringToolSuite4
 
+### 1. 빌드 및 실행
+
+```
+$ git clone https://github.com/bbjjy/kakaopay-bjy.git
+$ cd kakaopay-bjy
+$ ./gradlew clean build
+$ java -jar build/libs/kakaopay-bjy-0.0.1-SNAPSHOT.jar
+```
